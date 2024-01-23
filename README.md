@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<iframe src="https://giphy.com/embed/ggK04fdPVARRtH8w7G" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-ggK04fdPVARRtH8w7G">via GIPHY</a></p>"  />
+<img align="right" height="150" src="https://giphy.com/embed/ggK04fdPVARRtH8w7G" />
 
 ###
 
