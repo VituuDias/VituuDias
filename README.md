@@ -20,7 +20,3 @@
   <img width="12" />
 
 </div>
-
-##
-
-![snake gif](https://github.com/VituuDias/VituuDias/blob/output/github-contribution-grid-snake.svg)
