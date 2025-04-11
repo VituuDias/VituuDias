@@ -16,7 +16,7 @@
   <img width="12" />
 <!--   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="30" alt="c logo"  /> -->
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="30" alt="c logo"  /> 
   <img width="12" />-->
 
 </div>
