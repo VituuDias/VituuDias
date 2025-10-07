@@ -24,10 +24,9 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
 </div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/VituuDias/VituuDias/output/dist/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/VituuDias/VituuDias/output/dist/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://www.google.com/search?q=https://raw.githubusercontent.com/VituuDias/VituuDias/output/dist/pacman-  contribution-graph.svg">
-  </picture>
-</p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VituuDias/VituuDias/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VituuDias/VituuDias/output/dist/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VituuDias/VituuDias/output/pacman-contribution-graph.svg">
+</picture>
